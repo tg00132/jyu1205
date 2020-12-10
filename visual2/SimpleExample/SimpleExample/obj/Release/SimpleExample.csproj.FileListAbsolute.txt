@@ -1,0 +1,10 @@
+D:\Git_Test\jyu1205\visual2\SimpleExample\SimpleExample\bin\Release\SimpleExample.exe.config
+D:\Git_Test\jyu1205\visual2\SimpleExample\SimpleExample\bin\Release\SimpleExample.exe
+D:\Git_Test\jyu1205\visual2\SimpleExample\SimpleExample\bin\Release\SimpleExample.pdb
+D:\Git_Test\jyu1205\visual2\SimpleExample\SimpleExample\obj\Release\SimpleExample.csprojAssemblyReference.cache
+D:\Git_Test\jyu1205\visual2\SimpleExample\SimpleExample\obj\Release\SimpleExample.Form1.resources
+D:\Git_Test\jyu1205\visual2\SimpleExample\SimpleExample\obj\Release\SimpleExample.Properties.Resources.resources
+D:\Git_Test\jyu1205\visual2\SimpleExample\SimpleExample\obj\Release\SimpleExample.csproj.GenerateResource.cache
+D:\Git_Test\jyu1205\visual2\SimpleExample\SimpleExample\obj\Release\SimpleExample.csproj.CoreCompileInputs.cache
+D:\Git_Test\jyu1205\visual2\SimpleExample\SimpleExample\obj\Release\SimpleExample.exe
+D:\Git_Test\jyu1205\visual2\SimpleExample\SimpleExample\obj\Release\SimpleExample.pdb
