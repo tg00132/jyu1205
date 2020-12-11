@@ -1,0 +1,10 @@
+D:\Git_Test\jyu1205\visual3\STUDYform\STUDYform\bin\Debug\STUDYform.exe.config
+D:\Git_Test\jyu1205\visual3\STUDYform\STUDYform\bin\Debug\STUDYform.exe
+D:\Git_Test\jyu1205\visual3\STUDYform\STUDYform\bin\Debug\STUDYform.pdb
+D:\Git_Test\jyu1205\visual3\STUDYform\STUDYform\obj\Debug\STUDYform.csprojAssemblyReference.cache
+D:\Git_Test\jyu1205\visual3\STUDYform\STUDYform\obj\Debug\STUDYform.Form1.resources
+D:\Git_Test\jyu1205\visual3\STUDYform\STUDYform\obj\Debug\STUDYform.Properties.Resources.resources
+D:\Git_Test\jyu1205\visual3\STUDYform\STUDYform\obj\Debug\STUDYform.csproj.GenerateResource.cache
+D:\Git_Test\jyu1205\visual3\STUDYform\STUDYform\obj\Debug\STUDYform.csproj.CoreCompileInputs.cache
+D:\Git_Test\jyu1205\visual3\STUDYform\STUDYform\obj\Debug\STUDYform.exe
+D:\Git_Test\jyu1205\visual3\STUDYform\STUDYform\obj\Debug\STUDYform.pdb
