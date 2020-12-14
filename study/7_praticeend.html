@@ -6,18 +6,16 @@
     <title>Document</title>
 </head>
 <body>
-    <form >
-        이름:<input type="text" name="search">
-    </form>
-    <form>
-        성별:<input type="radio" name="gender">남성
-            <input type="radio" name="gender">여성
-    </form>
-    <form>
-       취미:<input type="checkbox" name="exercise">운동
-            <input type="checkbox" name="music">음악
-            <input type="checkbox" name="development">개발
-    </form>
-    <input type="submit">
+    <form action="" method="POST">
+        이름:<input type="text" name="" id=""><br>
+   
+        성별:<input type="radio" name="gender" id="man"><label for="man">남성</label>
+            <input type="radio" name="gender" id="girl"><label for="girl">여성</label><br>           
+    
+       취미:<input type="checkbox" id="exercise"><label for="exercise">운동</label>
+            <input type="checkbox" id="music"><label for="music">음악</label>
+            <input type="checkbox" id="development"><label for="development">개발</label><br>
+        <input type="submit" value="제출">
+        </form>
 </body>
 </html>
