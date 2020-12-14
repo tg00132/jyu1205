@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <!-- video-js 사용하기 위해 필요한 것-->
+  <link rel="stylesheet" 
+  href="https://vjs.zencdn.net/7.2.3/video-js.css"/>
+  <script src="https://vjs.zencdn.net/7.2.3/video.js">
+  </script>
+  <!-- video-js 사용하기 위해 필요한 것-->
+</head>
+<body>
+    <video src="Wildlife.mp4" controls></video>
+
+    <!--여러 가지 확장자에 대한 대비(audio태그와 동일)-->
+
+    <!--크기 단위 생략 시 px-->
+    <!-- autoplay muted : 자동 재생을 위한 짝꿍-->
+    <video width="640" height="360" controls autoplay muted>
+        <source src="Wildlife.webm" type="video/webm">
+        <source src="Wildlife.mp4" type="video/mp4">
+    </video>
+
+
+    <video poster="CSharp_Logo.PNG"  width="640" height="360" controls>
+        <source src="Wildlife.webm" type="video/webm">
+        <source src="Wildlife.mp4" type="video/mp4">
+    </video>
+
+    <h1>video.js 플러그인 적용</h1>
+    <video width="640" height="360" controls
+        class="video-js" data-setup="{}">
+        <source src="Wildlife.webm" type="video/webm">
+        <source src="Wildlife.mp4" type="video/mp4">
+    </video>
+    <h1>제목</h1>
+    <iframe width="420" height="345" src="https://youtu.be/2q82bGtujFA">
+    </iframe>
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NAPVkBAoQT8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+</body>
+
+</html>
